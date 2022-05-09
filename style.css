@@ -1,0 +1,32 @@
+body{
+    background-color: aqua;
+}
+
+.imgBox{
+    background-image: url('drag_drop_img.jpg');
+    position: relative;
+    height: 80px;
+    width:80px;
+    top:30px;
+    left:35px;
+    cursor: pointer;
+}
+
+.whiteBox{
+    margin: 10px;
+    height:155px;
+    width:155px;
+    background-color: aliceblue;
+    display:inline-block;
+    border: 1px solid black;
+}
+
+.hold{
+    border: solid red 4px;
+}
+
+
+
+.hide{
+    display:none;
+}
