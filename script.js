@@ -1,4 +1,4 @@
-console.log("helo")
+// console.log("helo")
 
 const imgBox = document.querySelector(".imgBox");
 const whiteBoxes = document.getElementsByClassName('whiteBox');
